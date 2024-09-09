@@ -1,4 +1,4 @@
-#!/Users/Anointing/.nvm/versions/node/v20.16.0/bin/node
+#!/usr/bin/node
 const request = require('request');
 const API_URL = 'https://swapi-api.hbtn.io/api';
 
